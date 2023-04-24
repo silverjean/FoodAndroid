@@ -8,9 +8,9 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.food.OnListClick;
+import com.example.food.services.listener.OnListClick;
 import com.example.food.R;
-import com.example.food.entity.FoodEntity;
+import com.example.food.entities.FoodEntity;
 import com.example.food.viewholder.FoodViewHolder;
 
 import java.util.List;
